@@ -1,0 +1,11 @@
+cdrom -> sr0
+cdrw -> sr0
+core -> /proc/kcore
+dvd -> sr0
+fd -> /proc/self/fd
+initctl -> /run/systemd/initctl/fifo
+log -> /run/systemd/journal/dev-log
+rtc -> rtc0
+stderr -> /proc/self/fd/2
+stdin -> /proc/self/fd/0
+stdout -> /proc/self/fd/1

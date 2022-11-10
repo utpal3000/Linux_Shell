@@ -1,0 +1,15 @@
+https://github.com/toarnabtrainer/voda_ubuntu_batch86
+
+MCQ Practice links:
+Test on Unix Shell Scripting (1): http://bit.ly/3mig7YT
+Test on Unix Shell Scripting (2): https://bit.ly/3qmrjX4
+Test on Unix Shell Scripting (3): https://bit.ly/3DGVocL
+
+Linux / Unix Study Material online: 
+https://rlworkman.net/howtos/rute/node1.html
+
+For HTML color codes visit:
+https://htmlcolorcodes.com/
+
+For echo output color codes visit:
+https://misc.flogisoft.com/bash/tip_colors_and_formatting

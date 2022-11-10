@@ -1,0 +1,85 @@
+List of all shell scripts are available here...
+-----------------------------------------------
+
+Day - 1 (Monday, 10th October 2022)
+-----------------------------------
+1. shell1.sh - Dealing with echo and escape sequence characters
+2. shell2.sh - Case-Switch usage (Version - 1) (with expr)
+3. shell3.sh - Case-Switch usage (Version - 2) (with bc)
+4. shell4.sh - Case-Switch usage (Version - 3) (bash syntax only)
+5. shell5.sh - bc command and check its help
+6. shell6.sh - Experiments with expr
+7. shell7.sh - Conditional statements (if-elif-fi) (Find maximum of three user given numbers)
+8. shell8.sh - Rewriting calculator program using conditional statements
+9. shell9.sh - While and for loop constructs (uses alphabet.txt)
+
+Day - 2 (Tuesday, 11th October 2022)
+------------------------------------
+10. shell10.sh - Series related problem (CLASS WORK - 1 (Day-2))
+11. shell11.sh - Pattern printing - 1
+12. shell12.sh - Pattern printing - 2
+13. shell13.sh - Pattern printing - 3
+14. shell14.sh - Printing first n numbers of Fibonacci Series (CLASS WORK - 3 (Day-2))
+15. shell15.sh - Dealing with conditional statements
+16. shell16.sh - Shell script to reverse a user given number (CLASS WORK - 4 (Day-2))
+17. shell17.sh - Greetings messages depending on the hour value
+18. shell18.sh - Dealing with the command line arguments
+19. shell19.sh - Adding all values provided through command line arguments
+20. shell20.sh - Checking the existence of a file and its file type
+21. shell21.sh - Upper case to lower case conversion and vice versa
+22. shell22.sh - Making a given name proper (CLASS WORK - 5 (Day-2))
+23. shell23.sh - Check whether a given username is valid or not (Strategy 1 to 6) (MOST IMPORTANT)
+
+Day - 3 (Wednesday, 12h October 2022)
+-------------------------------------
+24. shell24.sh - Check whether a given string is palindrome or not
+25. shell25.sh - Calendar shell script with roman month number as command line argument (CLASS WORK - 1 (Day-3))
+26. shell26.sh - Dealing with comm and diff commands (uses commdata1.dat and commdata2.dat files)
+27. shell27.sh - List those usernames logged out or logged in in the last 15 seconds
+28. shell28.sh - User defined functions in shell script
+29. shell29.sh - User defined functions in shell script (more study and experiments)
+30. shell30.sh - More on User Defined functions
+31. shell31.sh - Prime check user defined function (CLASS WORK - 2 (Day-3))
+32. shell32.sh - Using optimized prime check function we shall find all prime numbers within a user given range and print them on the console and also on a data file
+33. shell33.sh - Generating Fibonacci series using user defined recursive function
+34. shell34.sh - Segregating file names existing in /dev folder according to their file types
+
+Day - 4 (Thursday, 13th October 2022)
+-------------------------------------
+35. shell35.sh - Dealing with the virtual array also called associative array
+36. shell36.sh - Dealing with indexed array in bash shell syntax (CLASS WORK - 1 (Day-4))
+37. shell37.sh - Sorting of array elements using Bubble Sort algorithm
+38. shell38.sh - Dealing with the grep command
+39. shell39.sh - Dealing with the sed command
+40. shell40.sh - Dealing with the awk command
+41. shell41.sh - Creating text report using awk command (Uses the file student_marks.dat)
+42. shell42.sh - Calculator program using user defined functions
+43. shell43.sh - Calculator program using user defined functions (modified)
+44. shell44.sh - Find total file count, maximum, minimum, total and average of all file sizes of all files in the current folder (CLASS WORK - 2 (Day-4))
+45. shell45.sh - Find out the number of vowels and consonants in a user given word
+46. shell46.sh - Find out the number of vowels and consonants in a user given sentence
+
+Day - 5 (Friday, 14th October 2022)
+-----------------------------------
+47. shell47.sh - Shell script to take the backup
+48. shell48.sh - Shell script how to clean log files in Linux (Option - 1)
+49. shell49.sh - Shell script how to clean log files in Linux (Option - 2)
+50. shell50.sh - How to setup cron job in Ubuntu?
+51. shell51.sh - Sample cron job shell script
+52-55. routime.html, akbsir.html, rnsir.html, sbsir.html
+56. shell52.sh - Generating HTML page from emp.lst file
+57. shell53.sh - Using shell script to automate linux maintenance task (with color codes)
+
+
+
+
+
+
+
+
+Personal access Token: 
+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
+
+
+
+
